@@ -38,6 +38,9 @@ Ideal para:
 
 ### 1️⃣ Abrir PowerShell como Administrador
 
+Crie um Arquivo em branco na sua Area de Trabalho, com nome "servicos.ps1" Copie e Cole o conteudo em 
+[Script Services](https://github.com/imaxfachin/Services-Disbel-Windows/blob/main/Auto-ed-servicos.ps1), dentro do seu arquivo, Salve e feche.
+
 Clique com o botão direito no PowerShell → **Executar como administrador**
 
 Mova até o diretorio do seu Desktop (Area de Trabalho) do SEU user:
